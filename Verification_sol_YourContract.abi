@@ -1,0 +1,1 @@
+[{"inputs":[{"internalType":"bytes32","name":"certificateHash","type":"bytes32"}],"name":"addCertificate","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"bytes32","name":"certificateHash","type":"bytes32"}],"name":"certificateExists","outputs":[{"internalType":"bool","name":"","type":"bool"}],"stateMutability":"view","type":"function"}]
